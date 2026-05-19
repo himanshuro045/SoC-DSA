@@ -136,3 +136,13 @@ Use the provided `./test` executable to validate your implementation:
 - All those who are new to CP, this week is going to be a bit heavy. Feel free to ask us for more time. But make sure that you complete all the questions honestly, else this project won’t be able to help you much.
 
 ## Problem-solving habits
+
+- Read the problem carefully before coding. Understand the input, output, and constraints.
+- Start with a brute force solution. Optimize only after understanding the brute force.
+- Practice regularly instead of solving many problems at once.
+- Re-solve old problems to improve memory.
+- Learn from mistakes and missed edge cases.
+- Always think about time and space complexity.
+- Avoid memorizing solutions blindly.
+
+---
